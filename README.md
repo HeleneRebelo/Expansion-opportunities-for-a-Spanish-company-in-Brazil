@@ -17,4 +17,4 @@ Assess whether Magist meets Eniac's criteria, which are:
 
 #### I worked on this group project together with:
 
-Tilman Vogel, Adrian Mihail and Petri Tiirikainen
+* [Tilman Vogel](https://github.com/tvogel), Adrian Mihail and [Petri Tiirikainen](https://github.com/PetriTiirikainen)
