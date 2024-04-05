@@ -1,9 +1,10 @@
 # Expansion of a Spanish company in Brazil
-## Main Objective 
-The Spanish company Eniac wants to expand its business to Brazil and is evaluating a potential local partner, Magist, an outsourced SaaS provider. By accessing the Magist database it is possible to have a (limited) view of its operations. It was made extraction and data analysis techniques in SQL and Tableau.
 
 ## Context
 Eniac operates on online platforms specializing in electronics and accessories compatible with Apple. Over the years, it has maintained its commitment to offering diversified products at competitive prices, with technical support and quality consultancy services that have expanded to neighboring countries.
+
+## Main Objective 
+The Spanish company Eniac wants to expand its business to Brazil and is evaluating a potential local partner, Magist, an outsourced SaaS provider. By accessing the Magist database it is possible to have a (limited) view of its operations. It was done extraction and data analysis techniques in SQL and Tableau.
 
 ## Challenge
 Preserve the quality and time of services when expanding in a continental market that has great potential.
