@@ -9,12 +9,19 @@ The Spanish company Eniac wants to expand its business to Brazil and is evaluati
 ## Challenge
 Preserve the quality and time of services when expanding in a continental market that has great potential.
 
+## Folder Structure
+
+/docs: This directory contains the final presentation for the project.
+
+/images: Contains the generated graphs.
+
+/src: Inside this folder, you will find the Notebook with the codes.
+
 ## Approach
 Assess whether Magist meets Eniac's criteria, which are:
 1. Evaluate Magist’s suitability as a partner in the sale of high-quality technological products and accessories;
 2. Analyze the efficiency of Magist's delivery processes;
 3. Assess customer satisfaction levels associated with Magist services
-
 
 #### This project was made possible by the collaborative efforts of our team:
 
